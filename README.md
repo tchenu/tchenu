@@ -1,6 +1,6 @@
-# Hello 👋🏻
-<br>
-<img align="center" src="https://github.com/tchenu/tchenu/raw/master/me.png">
+<p align="center">
+  <img src="https://github.com/tchenu/tchenu/raw/master/me.png">
+</p>
 
 ## Articles 📑
 
