@@ -4,6 +4,12 @@
 
 ## Articles 📑
 
+#### « Ma (petite) participation au challenge Brigitte Friang », 14/11/2020
+
+*La Direction Générale de la Sécurité Extérieure et l’école ESIEE ont organisé un CTF sous le nom de Brigitte Friang en référence à la résistante française durant la seconde guerre mondiale...*
+
+[https://medium.com/@thibeaultchenu/ma-petite-participation-au-challenge-brigitte-friang-f7e54f6d6f61](https://medium.com/@thibeaultchenu/ma-petite-participation-au-challenge-brigitte-friang-f7e54f6d6f61)
+
 #### « How did I break a captcha with Puppeteer and Google Vision ? », 27/04/2019
 
 *I have developed a tool using artificial intelligence and a headless browser to break a CAPTCHA developed by
